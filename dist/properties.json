@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "name": "The Palm Residence",
+    "city": "Dubai",
+    "area": "Palm Jumeirah",
+    "type": "Villa",
+    "deal": "Buy",
+    "price": 2450000,
+    "beds": 5,
+    "baths": 6,
+    "size": 6200,
+    "image": "assets/property-0.jpg",
+    "gallery": [
+      "assets/property-0.jpg",
+      "assets/property-1.jpg",
+      "assets/property-3.jpg"
+    ],
+    "description": "A considered villa in Palm Jumeirah, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Skyline Atelier",
+    "city": "Mumbai",
+    "area": "Worli",
+    "type": "Apartment",
+    "deal": "Rent",
+    "price": 4200,
+    "beds": 3,
+    "baths": 3,
+    "size": 2100,
+    "image": "assets/property-1.jpg",
+    "gallery": [
+      "assets/property-1.jpg",
+      "assets/property-2.jpg",
+      "assets/property-4.jpg"
+    ],
+    "description": "A considered apartment in Worli, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "The Foundry Workspace",
+    "city": "Bengaluru",
+    "area": "Indiranagar",
+    "type": "Office",
+    "deal": "Rent",
+    "price": 2800,
+    "beds": 0,
+    "baths": 2,
+    "size": 1850,
+    "image": "assets/property-2.jpg",
+    "gallery": [
+      "assets/property-2.jpg",
+      "assets/property-3.jpg",
+      "assets/property-5.jpg"
+    ],
+    "description": "A thoughtfully planned workspace in Indiranagar, with flexible floor space, meeting areas and convenient access to the city\u2019s business district.",
+    "amenities": [
+      "Meeting rooms",
+      "High-speed internet ready",
+      "Dedicated parking",
+      "Reception area"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Casa Solstice",
+    "city": "Goa",
+    "area": "Assagao",
+    "type": "House",
+    "deal": "Buy",
+    "price": 890000,
+    "beds": 4,
+    "baths": 4,
+    "size": 3400,
+    "image": "assets/property-3.jpg",
+    "gallery": [
+      "assets/property-3.jpg",
+      "assets/property-4.jpg",
+      "assets/property-6.jpg"
+    ],
+    "description": "A considered house in Assagao, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Marina Penthouse",
+    "city": "Dubai",
+    "area": "Dubai Marina",
+    "type": "Apartment",
+    "deal": "Buy",
+    "price": 1250000,
+    "beds": 3,
+    "baths": 4,
+    "size": 2850,
+    "image": "assets/property-4.jpg",
+    "gallery": [
+      "assets/property-4.jpg",
+      "assets/property-5.jpg",
+      "assets/property-7.jpg"
+    ],
+    "description": "A considered apartment in Dubai Marina, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Garden House",
+    "city": "Bengaluru",
+    "area": "Whitefield",
+    "type": "House",
+    "deal": "Rent",
+    "price": 1900,
+    "beds": 4,
+    "baths": 4,
+    "size": 3100,
+    "image": "assets/property-5.jpg",
+    "gallery": [
+      "assets/property-5.jpg",
+      "assets/property-6.jpg",
+      "assets/property-0.jpg"
+    ],
+    "description": "A considered house in Whitefield, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "One Harbour Office",
+    "city": "Mumbai",
+    "area": "Bandra Kurla Complex",
+    "type": "Office",
+    "deal": "Buy",
+    "price": 720000,
+    "beds": 0,
+    "baths": 2,
+    "size": 2400,
+    "image": "assets/property-6.jpg",
+    "gallery": [
+      "assets/property-6.jpg",
+      "assets/property-7.jpg",
+      "assets/property-1.jpg"
+    ],
+    "description": "A thoughtfully planned workspace in Bandra Kurla Complex, with flexible floor space, meeting areas and convenient access to the city\u2019s business district.",
+    "amenities": [
+      "Meeting rooms",
+      "High-speed internet ready",
+      "Dedicated parking",
+      "Reception area"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "The Coastal Retreat",
+    "city": "Goa",
+    "area": "Siolim",
+    "type": "Villa",
+    "deal": "Rent",
+    "price": 3200,
+    "beds": 4,
+    "baths": 5,
+    "size": 4200,
+    "image": "assets/property-7.jpg",
+    "gallery": [
+      "assets/property-7.jpg",
+      "assets/property-0.jpg",
+      "assets/property-2.jpg"
+    ],
+    "description": "A considered villa in Siolim, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Cedar Court",
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "type": "Apartment",
+    "deal": "Buy",
+    "price": 310000,
+    "beds": 2,
+    "baths": 2,
+    "size": 1450,
+    "image": "assets/property-0.jpg",
+    "gallery": [
+      "assets/property-0.jpg",
+      "assets/property-1.jpg",
+      "assets/property-3.jpg"
+    ],
+    "description": "A considered apartment in Koramangala, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Oceanlight Villa",
+    "city": "Goa",
+    "area": "Anjuna",
+    "type": "Villa",
+    "deal": "Buy",
+    "price": 1150000,
+    "beds": 5,
+    "baths": 5,
+    "size": 5100,
+    "image": "assets/property-1.jpg",
+    "gallery": [
+      "assets/property-1.jpg",
+      "assets/property-2.jpg",
+      "assets/property-4.jpg"
+    ],
+    "description": "A considered villa in Anjuna, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "The Boulevard",
+    "city": "Dubai",
+    "area": "Downtown Dubai",
+    "type": "Office",
+    "deal": "Rent",
+    "price": 5100,
+    "beds": 0,
+    "baths": 3,
+    "size": 3200,
+    "image": "assets/property-2.jpg",
+    "gallery": [
+      "assets/property-2.jpg",
+      "assets/property-3.jpg",
+      "assets/property-5.jpg"
+    ],
+    "description": "A thoughtfully planned workspace in Downtown Dubai, with flexible floor space, meeting areas and convenient access to the city\u2019s business district.",
+    "amenities": [
+      "Meeting rooms",
+      "High-speed internet ready",
+      "Dedicated parking",
+      "Reception area"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Parkside Residence",
+    "city": "Mumbai",
+    "area": "Powai",
+    "type": "Apartment",
+    "deal": "Rent",
+    "price": 2200,
+    "beds": 2,
+    "baths": 2,
+    "size": 1600,
+    "image": "assets/property-3.jpg",
+    "gallery": [
+      "assets/property-3.jpg",
+      "assets/property-4.jpg",
+      "assets/property-6.jpg"
+    ],
+    "description": "A considered apartment in Powai, with generous proportions, natural light and beautifully composed spaces. Designed for comfortable everyday living and effortless entertaining.",
+    "amenities": [
+      "Secure access",
+      "Dedicated parking",
+      "Air conditioning",
+      "Balcony / terrace"
+    ]
+  }
+]

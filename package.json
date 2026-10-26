@@ -1,0 +1,1 @@
+{"name":"haven-real-estate-demo","version":"1.0.0","private":true,"description":"Portable real estate demo, with zero runtime dependencies","scripts":{"dev":"node server.js","start":"node server.js","check":"node --check dist/app.js && node --check dist/config.js"}}
