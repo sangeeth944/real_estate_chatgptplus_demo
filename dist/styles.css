@@ -49,3 +49,24 @@ ero{overflow:hidden;isolation:isolate}.hero-slides{position:absolute;inset:0;z-i
     height: 70vh;
   }
 }
+
+
+
+/* Header logo */
+.brand-logo {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin-right: -10px; /* pulls the text closer to the logo */
+}
+
+.brand-logo img {
+  height: 64px;
+  width: auto;
+  display: block;
+}
+
+@media (max-width: 650px) {
+  .brand-logo img { height: 100px; }
+  .brand-logo { margin-right: -20px; }
+}
